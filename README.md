@@ -77,7 +77,7 @@ project/
 ---
 
 ## 📝 주의사항
-- `stickers/` 폴더에 PNG 스티커가 반드시 있어야 합니다.
-- `.gitignore`에 의해 `camera.avi` / `output.avi`는 저장소에 업로드되지 않습니다.
-- `movies/keyboard.mp4`는 예시 영상이므로, 필요 시 다른 영상을 직접 준비하세요.
+- `stickers/` 폴더 안에 PNG 스티커 파일이 있어야 실행 가능
+- `camera.avi` / `output.avi`는 .gitignore에 의해 깃허브에 올라가지 않음.
+- `movies/keyboard.mp4`는 테스트용 예시 영상, 다른 파일로 교체해서 사용
 
